@@ -1,16 +1,24 @@
-## Hi there 👋
+# Rodrigo
 
-<!--
-**Rodrigo-BT/Rodrigo-BT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring SOC Analyst | Blue Team | BTL1 Candidate**
 
-Here are some ideas to get you started:
+I'm building practical skills in security monitoring, log analysis, and incident investigation, with a focus on entry-level SOC roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificates
+- Google Cybersecurity Professional Certificate (Coursera) 
+- Blue Team Level1 (BTL1) (Centri) (Currently)
+  
+## Current Focus
+- Completing Blue Team Level 1 (BTL1)
+- Investigating Events in Splunk.
+- Documenting investigations as written walkthroughs.
+
+## Portfolio
+[SOC Portfolio](coming soon): investigation walkthroughs and technical notes.
+
+## Tools & Skills
+Splunk, Windows Event Logs, log analysis, incident triage
+
+## Contact
+[LinkedIn] | [Email]
+
